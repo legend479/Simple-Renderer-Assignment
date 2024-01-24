@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/render.dir/render.cpp.o CMakeFiles/render.dir/scene.cpp.o CMakeFiles/render.dir/camera.cpp.o CMakeFiles/render.dir/surface.cpp.o CMakeFiles/render.dir/texture.cpp.o CMakeFiles/render.dir/extern/tinyexr/deps/miniz/miniz.c.o -o render 
